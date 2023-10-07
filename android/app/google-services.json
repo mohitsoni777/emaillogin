@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455841410084",
+    "project_id": "forthp-57786",
+    "storage_bucket": "forthp-57786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455841410084:android:3da8297139f9a5fac8bcb1",
+        "android_client_info": {
+          "package_name": "com.example.forth_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimfA4IZDs3oYqqE4u4rW-FRUFc3a3CYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

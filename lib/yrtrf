@@ -1,0 +1,45 @@
+network-request-failed
+  // onPressed: () {
+                      //   Navigator.of(context).push(MaterialPageRoute(
+                      //       builder: (context) => const logouty()));
+                      // final user = FirebaseAuth.instance.currentUser;
+
+                      // await FirebaseAuth.instance.signOut();
+                      // Navigator.pushNamed(context, "/login");
+                      // },
+                       // return
+                          // showDialog(
+                          //     context: context,
+                          //     builder: (ctx) => );
+                          //  AlertDialog(
+                          //       title: Text("Sign Out"),
+                          //       content: Text("Are you sure "),
+                          //       actions: [
+                          //         TextButton(
+                          //           onPressed: () {
+                          //             Navigator.of(context).pop();
+                          //           },
+                          //           child: Text("cancel"),
+                          //         ),
+                          //       ],
+                          //     ));
+                            // try {
+                      //   final email1 = email.text;
+                      //   final pass = password.text;
+                      //   final UserCredential = await FirebaseAuth.instance
+                      //       .signInWithEmailAndPassword(
+                      //           email: email1, password: pass);
+                      // Navigator.pushNamed(context, "/logout");
+                      //   print(UserCredential);
+                      // } on FirebaseAuthException catch (e) {
+                      //   if (e.code == "invalid-email") {
+                      //     print("your email is wrong");
+                      //   }
+                      //   //  else if (e.code == "email-already-in-use") {
+                      //   //   print("email is alredy existed");
+                      //   // } else if (e.code == "weak-password") {
+                      //   //   print("your password is weak ");
+                      //   // }
+                      //   else {
+                      //     print(e.code);
+                      //   }
